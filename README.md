@@ -1,3 +1,43 @@
+
+# GenomicLabOptimizer
+
+Optimal Resource Allocation in Genomic Laboratories using Integer Linear Programming
+Based on the article: "Optimal Allocation of Laboratory Resources for Genomic Experiments Using Integer Linear Programming"
+Authors: Tavares, J.W.R., Evangelista, A., De Oliveira, A.
+This repository implements an Integer Linear Programming (ILP) model to optimize resource allocation in genomic laboratories, based on the aforementioned article.
+Features:
+
+Mathematical formulation of the problem (variables, objective function and constraints)
+Modeling and solving via Pyomo with support for GLPK and CBC solvers
+
+Analysis of:
+
+Experiment efficiency (p/t, p/r and p/h ratios)
+Resource usage and bottleneck resource identification
+Performance comparison between solvers (total time, solving time and objective value)
+
+Generation of graphical visualizations:
+
+Optimal quantity of experiments
+Resource utilization
+Efficiency ratios
+Performance comparison between solvers
+
+Main dependencies:
+
+Python ≥ 3.8
+Pyomo
+GLPK and/or CBC installed and accessible via PATH
+Matplotlib, Pandas, NumPy, Seaborn
+
+▶ How to run:
+Simply run the main script:
+
+
+
+
+
+
 # GenomicLabOptimizer
 Alocação Ótima de Recursos em Laboratórios Genômicos usando Programação Linear Inteira Baseado no artigo: "Optimal Allocation of Laboratory Resources for Genomic Experiments Using Integer Linear Programming" Autores: Tavares, J.W.R., Evangelista, A., De Oliveira, A. 
 
