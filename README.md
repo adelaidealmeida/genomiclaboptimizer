@@ -30,8 +30,10 @@ Pyomo
 GLPK and/or CBC installed and accessible via PATH
 Matplotlib, Pandas, NumPy, Seaborn
 
-▶ How to run:
-Simply run the main script:
+▶How to Run:
+1- Run pli_v3_20250717.ipynb
+2- Run variancy.ipynb
+3- Select the attributes from step 2 and run graphic_solution.ipynb
 
 
 
@@ -66,4 +68,6 @@ GLPK e/ou CBC instalados e acessíveis via PATH
 Matplotlib, Pandas, NumPy, Seaborn
 
 ▶Como executar:
-Basta rodar o script principal:
+1- Execute pli_v3_20250717.ipynb
+2- Execute variancy.ipynb
+3- Selecione os atributos do passo 2 e rode graphic_solution.ipynbgraphic_solution.ipynb
