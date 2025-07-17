@@ -1,10 +1,7 @@
 # GenomicLabOptimizer
-Alocação Ótima de Recursos em Laboratórios Genômicos usando Programação Linear Inteira Baseado no artigo: "Optimal Allocation of Laboratory Resources for Genomic Experiments Using Integer Linear Programming" Autores: Jailton Wagner Rodrigues Tavares, Adelaide Evangelista, Aline De Oliveira
+Alocação Ótima de Recursos em Laboratórios Genômicos usando Programação Linear Inteira Baseado no artigo: "Optimal Allocation of Laboratory Resources for Genomic Experiments Using Integer Linear Programming" Autores: Tavares, J.W.R., Evangelista, A., De Oliveira, A. 
 
-Alocação Ótima de Recursos em Laboratórios Genômicos com Programação Linear Inteira
 Este repositório implementa um modelo de Programação Linear Inteira (PLI) para otimizar a alocação de recursos em laboratórios genômicos, com base no artigo:
-
-Autores: Tavares, J.W.R., Evangelista, A., De Oliveira, A. – "Optimal Allocation of Laboratory Resources for Genomic Experiments Using Integer Linear Programming."
 
 Funcionalidades:
 Formulação matemática do problema (variáveis, função objetivo e restrições);
